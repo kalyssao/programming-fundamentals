@@ -1,5 +1,4 @@
 #include <iostream>
-
 int numberPrompt() {
 	int number;
 	
@@ -11,7 +10,6 @@ int numberPrompt() {
 
 int main() {
 	int num = numberPrompt();
-
 
 	if ( num % 2 == 0 ) {
 		int mult = 1, prod = 1;
