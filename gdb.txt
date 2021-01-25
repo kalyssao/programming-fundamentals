@@ -1,0 +1,16 @@
+gdb mult
+break 10
+break 15
+info breakpoints
+clear 10
+break 21
+print prod
+set num=11
+c
+c
+diplay prod
+display num
+del
+run
+yes
+watch mult
