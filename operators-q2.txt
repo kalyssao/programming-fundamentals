@@ -1,0 +1,2 @@
+x & y = binary AND; [01 & 10]
+x && y = logical AND; [True & True]
