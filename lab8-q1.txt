@@ -1,0 +1,2 @@
+1. initially the bss was size 8, it became size 16, then became 4. 
+when static is used, the file size increases because it's saved in data not stack?
